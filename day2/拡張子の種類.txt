@@ -1,0 +1,30 @@
+拡張子
+
+//画像ファイル
+.txt　一般的なテキストファイル
+.jpg　(jpeg）画像ファイル
+.png 画像ファイル（透明を維持できる）
+.gif 軽い画像（２５６色程度で表せる）
+.aiff
+.way
+.mp3（圧縮されている）
+.ogg
+//動画ファイル
+.mp4
+.avi
+.mkv
+//プログラム
+.java
+.php
+.pv
+.js
+.html
+.css
+.cs
+
+//その他
+.pdf(portable document format)
+.xls エクセル
+.doc ワード
+.psd photoshop
+
